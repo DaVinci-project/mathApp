@@ -7,11 +7,11 @@ Here you'll find some information about the project as well as the instructions 
 
 ####Folder Structure
 - web/ (main app files)
-- 	css/ (CSS files)
-- 	js/ (JS scripts)
-- 	img/ (All images)
-- 	fonts/ (All fonts)
-- 	index.html (main index file)
+-   css/ (CSS files)
+-   js/ (JS scripts)
+-   img/ (All images)
+-   fonts/ (All fonts)
+-   index.html (main index file)
 
 
 ####Styleguide
